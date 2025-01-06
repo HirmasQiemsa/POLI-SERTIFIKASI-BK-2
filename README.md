@@ -67,4 +67,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Instalasi
 
-Ekstrak terlebih dahulu public.rar dan vendor.rar, jika sudah migrasi database dan optimize artisan, lalu bisa langsung jalankan
+Ekstrak terlebih dahulu public.rar dan vendor.rar, jika sudah migrasi database dan optimize artisan, lalu bisa install composer: composer require barryvdh/laravel-dompdf
+
